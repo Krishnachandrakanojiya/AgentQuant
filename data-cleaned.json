@@ -1,0 +1,22 @@
+[
+  {
+    "Product": "A",
+    "Sales": 100
+  },
+  {
+    "Product": "B",
+    "Sales": 200
+  },
+  {
+    "Product": "C",
+    "Sales": 300
+  },
+  {
+    "Product": "D",
+    "Sales": 400
+  },
+  {
+    "Product": "E",
+    "Sales": 500
+  }
+]
