@@ -1,0 +1,12 @@
+Use markdown format.
+
+The report must include:
+- Executive Summary
+- Data Cleaning Summary
+- Statistical Analysis
+- Visualization Summary
+- Agent Workflow Log Summary
+- Validation Summary
+- Final Conclusion
+
+The report should be complete, accurate, structured, and easy to read.

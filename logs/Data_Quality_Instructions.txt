@@ -1,0 +1,5 @@
+1. Verify missing values are handled.
+2. Verify duplicate rows are removed.
+3. Verify numeric outliers are identified and removed.
+4. Verify statistics are calculated only after cleaning.
+5. Verify cleaned data is suitable for visualization.
